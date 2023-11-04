@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801104497512",
+    "project_id": "lumia-a17be",
+    "storage_bucket": "lumia-a17be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801104497512:android:0b663353a36da89146e4dd",
+        "android_client_info": {
+          "package_name": "com.example.lumia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXQXieg2Ue9jSxGvlbKspye_WWc5nkRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801104497512:android:b38329e6bcd34ff246e4dd",
+        "android_client_info": {
+          "package_name": "com.example.lumia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXQXieg2Ue9jSxGvlbKspye_WWc5nkRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
